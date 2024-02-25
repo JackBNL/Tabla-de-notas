@@ -1,5 +1,3 @@
-
-
 function Pro_lengt45(){
       var L1 =document.getElementById("L1").value;
       var L2 =document.getElementById("L2").value;
